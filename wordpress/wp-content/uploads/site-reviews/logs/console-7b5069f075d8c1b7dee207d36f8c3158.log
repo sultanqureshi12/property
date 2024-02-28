@@ -1,0 +1,7 @@
+[2024-02-27 21:07:50] DEBUG [C:\xampp\htdocs\property\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-27 22:14:23] ERROR [Modules\Email:90] Email was not sent (wp_mail failed)
+[2024-02-27 22:14:23] DEBUG [C:\xampp\htdocs\property\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-27 23:42:17] ERROR [Modules\Email:90] Email was not sent (wp_mail failed)
+[2024-02-27 23:43:01] DEBUG [C:\xampp\htdocs\property\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-27 23:47:35] DEBUG [C:\xampp\htdocs\property\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-28 00:15:26] DEBUG [C:\xampp\htdocs\property\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
